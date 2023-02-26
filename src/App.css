@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+button{
+  width: 150px;
+  height: 75px;
+  background-color: teal;
+  border: 0px;
+  border-radius: 15px;
+  margin: 12px;
+  color: white;
+  font-size: 18px;
+  cursor: pointer;
+}
